@@ -20,7 +20,7 @@ This is a [demo website](https://www.ghosind.com) for Jekyll Paper.
 - SASS
 - Internationalization
 - Configurable navigation menu
-- Categories Index
+- Project Tech Blog
 - SEO optimization
 - Mathematics (MathJax)
 - Diagrams (Mermaid)
@@ -47,7 +47,7 @@ You can add or update navigation menu items in `_data/menus.yml` file. In the co
 ### Example
 
 ```yml
-- title: "Index"
+- title: "Tech Blog"
   url:   ""
 
 - title: "Github"
@@ -76,7 +76,7 @@ Jekyll Paper has supported the following languages, please set language in `lang
 
 The home page:
 
-![Index](./assets/images/index-screenshot.png)
+![Tech Blog](./assets/images/index-screenshot.png)
 
 The post page:
 
@@ -100,6 +100,6 @@ If you would like to make Jekyll Paper better, you can create a new pull request
 
 If you have any questions or suggestions, you can create an issue on [Jekyll Paper Issues][jekyll-paper-issues].
 
-[jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
-[jekyll-paper-github]: https://github.com/ghosind/Jekyll-Paper-Github
-[jekyll-paper-issues]: https://github.com/ghosind/Jekyll-Paper/issues
+[jekyll-paper]: https://github.com/HyeSooYoon
+[jekyll-paper-github]: https://github.com/HyeSooYoon-Github
+[jekyll-paper-issues]: https://github.com/HyeSooYoon/issues

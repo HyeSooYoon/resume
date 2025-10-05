@@ -45,7 +45,7 @@ Jekyll Paper的使用方法十分简单，只需要简单的几步即可创建�
 ### 导航栏配置示例
 
 ```yml
-- title: "Index"
+- title: "Tech Blog"
   url:   ""
 
 - title: "Github"
@@ -73,7 +73,7 @@ Jekyll Paper目前支持下列语言，欢迎参与提高翻译质量及增加�
 
 首页：
 
-![Index](./assets/images/index-screenshot.png)
+![Tech Blog](./assets/images/index-screenshot.png)
 
 文章页：
 
@@ -97,6 +97,6 @@ Jekyll Paper通过MIT许可发布。
 
 若您有任何建议或者意见，可在[Jekyll Paper Issues][jekyll-paper-issues]发布。
 
-[jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
-[jekyll-paper-github]: https://github.com/ghosind/Jekyll-Paper-Github
-[jekyll-paper-issues]: https://github.com/ghosind/Jekyll-Paper/issues
+[jekyll-paper]: https://github.com/HyeSooYoon
+[jekyll-paper-github]: https://github.com/HyeSooYoon-Github
+[jekyll-paper-issues]: https://github.com/HyeSooYoon/issues

@@ -1,6 +1,6 @@
 en:
-  menu_index: "Index"
-  menu_category: "Categories"
+  menu_index: "Tech Blog"
+  menu_category: "Project"
   menu_about: "About"
   paginator_previous: "Previous"
   paginator_pages: "Page: "
@@ -8,14 +8,14 @@ en:
   notification_404: "Page not found :("
   post_write_date: "Written on "
   post_update_date: "updated at "
-  post_categories: "Categories: "
+  post_categories: "Project: "
   post_tags: "Tags: "
   post_previous: "Previous: "
   post_next: "Next: "
-  categories_title: "Categories"
+  categories_title: "Project"
 
 de:
-  menu_index: "Index"
+  menu_index: "Tech Blog"
   menu_category: "Kategorien"
   menu_about: "Über"
   paginator_previous: "Bisherige"
